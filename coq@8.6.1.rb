@@ -10,7 +10,7 @@ class Camlp5TransitionalModeRequirement < Requirement
   end
 end
 
-class Coq < Formula
+class CoqAT861 < Formula
   desc "Proof assistant for higher-order logic"
   homepage "https://coq.inria.fr/"
   url "https://coq.inria.fr/distrib/8.6.1/files/coq-8.6.1.tar.gz"
